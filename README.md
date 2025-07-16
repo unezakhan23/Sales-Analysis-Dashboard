@@ -25,6 +25,6 @@ This project presents an interactive and insightful Sales Performance Analysis u
 - Return Rate: Remains low across dashboards, indicating strong customer satisfaction.
 
 - <a href=https://github.com/unezakhan23/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboard.png> Click Here</a>
-- Click Here <a href=https://github.com/unezakhan23/Sales-Analysis-Dashboard/blob/main/Sales%20Dashboard%202.png> Click Here</a>
-- Click Here <a href=https://github.com/unezakhan23/Sales-Analysis-Dashboard/blob/main/France%20Dashboard.png> Click Here</a>
+- <a href=https://github.com/unezakhan23/Sales-Analysis-Dashboard/blob/main/Sales%20Dashboard%202.png> Click Here</a>
+- <a href=https://github.com/unezakhan23/Sales-Analysis-Dashboard/blob/main/France%20Dashboard.png> Click Here</a>
 
