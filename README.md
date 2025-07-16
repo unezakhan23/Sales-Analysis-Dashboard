@@ -5,12 +5,12 @@
 - Sales Dashboard 2.png
 - Sales Analysis Dashboard.png
 
-# Key KPIs Displayed:
-🧍‍♂️ Total Customers
-💵 Revenue Per Customer
-📈 Total Profit
+## Key KPIs Displayed:
+- 🧍‍♂️ Total Customers
+- 💵 Revenue Per Customer
+- 📈 Total Profit
 🔁 Return Rate
-# Key Insights from Sales Dashboards
+## Key Insights from Sales Dashboards
 - Customer Growth: Strong rise in customer numbers, especially after 2021.
 ## Top Product Categories:
 - Accessories and Bikes lead in total orders.
@@ -24,5 +24,7 @@
 - France shows major customer and revenue growth.
 - Return Rate: Remains low across dashboards, indicating strong customer satisfaction.
 
--  <a href=>Click here to view the project on GitHub</a>
+-  <a href=https://github.com/unezakhan23/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboard.png>Click here to view the project on GitHub</a>
+-  <a href=https://github.com/unezakhan23/Sales-Analysis-Dashboard/blob/main/Sales%20Dashboard%202.png>Click here to view the project on GitHub</a>
+- <a href=https://github.com/unezakhan23/Sales-Analysis-Dashboard/blob/main/France%20Dashboard.png>Click here to view the project on GitHub</a>
 
