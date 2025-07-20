@@ -26,5 +26,5 @@ This project presents an interactive and insightful Sales Performance Analysis u
 
 - Dashboard 1 : [France Dashboard.png](https://github.com/unezakhan23/Sales-Analysis-Dashboard/blob/main/France%20Dashboard.png)
 - Dashboard 2 : [Sales Analysis Dashboard.png](https://github.com/unezakhan23/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboard.png)
-- Dashboard 3 : [Sales Dashboard 2.png](Sales Dashboard 2.png)
+- Dashboard 3 : [Sales Dashboard 2.png](https://github.com/unezakhan23/Sales-Analysis-Dashboard/blob/main/Sales%20Dashboard%202.png)
 
